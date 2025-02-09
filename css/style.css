@@ -28,6 +28,7 @@ li {
 }
 
 .title-middle {
+    font-family: "Inter", serif;
     font-size: 32px;
     font-weight: 700;
 }
@@ -78,6 +79,7 @@ li {
     height: 124px;
     padding: 0 10px;
 
+    font-family: "Inter", serif;
     font-size: 16px;
     color: #000000;
     letter-spacing: 0.5px;
@@ -116,6 +118,7 @@ li {
 }
 
 .header__buttons_enter {
+    font-family: "Inter", serif;
     font-size: 16px;
     font-weight: 400;
     letter-spacing: 0.5px;
@@ -158,6 +161,7 @@ li {
 }
 
 .header__buttons_registration {
+    font-family: "Inter", serif;
     font-size: 16px;
     font-weight: 400;
     letter-spacing: 0.5px;
@@ -186,7 +190,7 @@ li {
     width: 24px;
     height: 20px;
 
-    background-image: url('/images/header_registration.png');
+    background-image: url('images/header_registration.png');
     background-repeat: no-repeat;
 
     filter: brightness(0.3);
@@ -208,7 +212,7 @@ li {
     flex-wrap: wrap;
     position: relative;
 
-    background-image: url('/images/bg_image.png');
+    background-image: url('images/bg_image.png');
     background-repeat: no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
@@ -325,6 +329,7 @@ li {
 }
 
 .main__content_title {
+    font-family: "Inter", serif;
     font-size: 48px;
     font-weight: 700;
     letter-spacing: 2.5px;
@@ -336,6 +341,7 @@ li {
 
 .main__content_text,
 .main__content_text2 {
+    font-family: "Inter", serif;
     font-size: 18px;
     font-weight: 400;
     line-height: 26px;
@@ -351,6 +357,7 @@ li {
 }
 
 .main__content_btn {
+    font-family: "Inter", serif;
     font-size: 18px;
     font-weight: 500;
     letter-spacing: 1px;
@@ -412,21 +419,22 @@ li {
 }
 
 .promo__content_videoImage::before {
-    background-image: url('/images/promo_videocalls.png');
+    background-image: url('images/promo_videocalls.png');
     background-color: #C2E6FA;
 }
 
 .promo__content_calendarImage::before {
-    background-image: url('/images/promo__calendar.png');
+    background-image: url('images/promo__calendar.png');
     background-color: #C2FAFA;
 }
 
 .promo__content_managementImage::before {
-    background-image: url('/images/promo__management.png');
+    background-image: url('images/promo__management.png');
     background-color: #FAEBC2;
 }
 
 .promo__content_header {
+    font-family: "Inter", serif;
     font-size: 24px;
     font-weight: 700;
     color: #000000;
@@ -435,6 +443,7 @@ li {
 }
 
 .promo__content_text {
+    font-family: "Inter", serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
@@ -461,6 +470,7 @@ li {
     justify-content: space-between;
     gap: 12px;
 
+    font-family: "Inter", serif;
     font-size: 16px;
     font-weight: 400;
     margin-left: auto;
@@ -496,7 +506,7 @@ li {
 .teachers-choice__link::before {
     content: '';
     display: block;
-    background-image: url('/images/teachers_arrow_down.png');
+    background-image: url('images/teachers_arrow_down.png');
     background-repeat: no-repeat;
     background-position: center;
     width: 12px;
@@ -551,6 +561,7 @@ li {
 }
 
 .teachers-choice__text-total {
+    font-family: "Inter", serif;
     font-size: 16px;
     font-weight: 400;
     color: #000000;
@@ -600,6 +611,7 @@ li {
 }
 
 .teachers__initials {
+    font-family: "Inter", serif;
     font-size: 18px;
     font-weight: 700;
     color: #000000;
@@ -612,19 +624,20 @@ li {
 }
 
 .teachers__star_blue {
-    background-image: url('/images/teachers_star_blue.png');
+    background-image: url('images/teachers_star_blue.png');
     width: 20px;
     height: 19px;
 }
 
 .teachers__star_white {
-    background-image: url('/images/teachers_star_white.png');
+    background-image: url('images/teachers_star_white.png');
     width: 20px;
     height: 19px;
 }
 
 .teachers__subject,
 .teachers__experience {
+    font-family: "Inter", serif;
     font-size: 14px;
     font-weight: 400;
     color: #15394E;
@@ -639,6 +652,7 @@ li {
 }
 
 .teachers__price {
+    font-family: "Inter", serif;
     font-size: 22px;
     font-weight: 700;
     color: #000000;
@@ -647,6 +661,7 @@ li {
 }
 
 .teachers__price_span {
+    font-family: "Inter", serif;
     font-size: 10px;
     font-weight: 400;
     color: #000000;
@@ -662,6 +677,7 @@ li {
     padding: 20px 50px 20px 50px;
     background-color: #ffffff;
 
+    font-family: "Inter", serif;
     font-size: 16px;
     font-weight: 400;
     color: #000000;
@@ -682,6 +698,7 @@ li {
     padding: 22px 25px 22px 59px;
 
     background-color: #C3E6FA;
+    font-family: "Inter", serif;
     font-size: 16px;
     font-weight: 400;
     color: #15394E;
@@ -706,7 +723,7 @@ li {
     content: '';
     display: block;
 
-    background-image: url('/images/teachers_points.png');
+    background-image: url('images/teachers_points.png');
     background-repeat: no-repeat;
     background-position: center center;
     width: 24px;
@@ -798,6 +815,7 @@ li {
     height: 61px;
     width: 137px;
 
+    font-family: "Inter", serif;
     font-size: 16px;
     font-weight: 400;
     text-align: center;
@@ -818,6 +836,7 @@ li {
     content: 'Учеников';
     right: 0;
 
+    font-family: "Inter", serif;
     font-size: 16px;
     font-weight: 400;
     color: #15394E;
@@ -873,6 +892,7 @@ li {
 }
 
 .reviews__initials {
+    font-family: "Inter", serif;
     font-size: 20px;
     font-weight: 700;
     color: #000000;
@@ -882,6 +902,7 @@ li {
 
 .reviews__user-status,
 .reviews__read_more {
+    font-family: "Inter", serif;
     font-size: 16px;
     font-weight: 400;
     color: #497B98;
@@ -900,6 +921,7 @@ li {
 }
 
 .reviews__review-text {
+    font-family: "Inter", serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 22px;
@@ -912,7 +934,7 @@ li {
     content: '';
     display: block;
 
-    background-image: url('/images/reviews_arrow_left.png');
+    background-image: url('images/reviews_arrow_left.png');
     background-repeat: no-repeat;
     width: 12px;
     height: 9px;
@@ -1039,32 +1061,34 @@ li {
 }
 
 .advantages__calendar_image::before {
-    background-image: url('/images/advantages_calendar.png');
+    background-image: url('images/advantages_calendar.png');
     background-color: #C2E6FA;
 }
 
 .advantages__analytics_image::before {
-    background-image: url('/images/advantages_analytics-graph.png');
+    background-image: url('images/advantages_analytics-graph.png');
     background-color: #C2FAFA;
 }
 
 .advantages__schedule_image::before {
-    background-image: url('/images/advantages_shedule.png');
+    background-image: url('images/advantages_shedule.png');
     background-color: #FAEBC2;
 }
 
 .advantages__interactive_image::before {
-    background-image: url('/images/advantages_interactive.png');
+    background-image: url('images/advantages_interactive.png');
     background-color: #C2FADB;
 }
 
 .advantages__header {
+    font-family: "Inter", serif;
     font-size: 24px;
     font-weight: 700;
     color: #000000;
 }
 
 .advantages__text {
+    font-family: "Inter", serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
@@ -1104,6 +1128,7 @@ li {
 }
 
 .footer__about_text {
+    font-family: "Inter", serif;
     font-size: 15px;
     font-weight: 400;
     color: #AFAFAF;
@@ -1139,6 +1164,7 @@ li {
 }
 
 .footer__title {
+    font-family: "Inter", serif;
     font-size: 22px;
     font-weight: 700;
     color: #ffffff;
@@ -1152,6 +1178,7 @@ li {
 }
 
 .footer__link {
+    font-family: "Inter", serif;
     font-size: 16px;
     font-weight: 400;
     color: #fefefe;
