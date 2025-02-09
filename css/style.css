@@ -419,7 +419,7 @@ li {
 }
 
 .promo__content_videoImage::before {
-    background-image: url('images/promo_videocalls.png');
+    background-image: url('/images/promo_videocalls.png');
     background-color: #C2E6FA;
 }
 
